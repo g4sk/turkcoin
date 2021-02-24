@@ -13,7 +13,7 @@ Turkcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 5 minute block targets
  - ~350k total coins
 
-The rest is the not same as Bitcoin.
+The rest;
  - 20 coins per block
  - 2016 blocks to retarget difficulty
 
